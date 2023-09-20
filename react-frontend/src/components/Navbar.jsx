@@ -1,4 +1,4 @@
-import '/Users/tebogo.coetzee/Desktop/takealotPython/girlcodealot-react/src/App.css'
+import '../App.css'
 import { Outlet, Link } from "react-router-dom";
 
 
