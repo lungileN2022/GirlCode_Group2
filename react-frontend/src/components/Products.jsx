@@ -76,7 +76,7 @@ const Products = () => {
                     </div>
                     <div class="product-details">
                         <h2 class="product-title">Fujifilm Instax Mini 12 Instant Film Camera</h2>
-                        <p class="product-description">3 colours available </p>
+                        <p class="product-description">3 colours  </p>
                         <span class="product-price">R1 799,99</span>
                         <div class="product-rating">
                             <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
