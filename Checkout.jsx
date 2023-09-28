@@ -4,7 +4,7 @@ import './checkout-style.css'; // Import my CSS file
 function Checkout() {
   return (
     <div>
-      <h1>OPTIMUS-X</h1>
+      <h1>GirlCode Store</h1>
       <div className="container">
         <div className="heading">Order Summary</div>
         <div className="login-option">
